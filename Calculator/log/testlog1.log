@@ -1,0 +1,60 @@
+2021-11-27 18:15:02,905 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:15:02,960 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:15:03,608 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:15:03,645 [main] INFO Calculator - Result matched
+2021-11-27 18:22:01,711 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:22:01,769 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:22:02,447 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:22:02,483 [main] INFO Calculator - Result matched
+2021-11-27 18:25:39,348 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:25:39,404 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:25:40,068 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:25:40,180 [main] INFO Calculator - Result matched
+2021-11-27 18:27:33,073 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:27:33,129 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:27:33,774 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:27:34,196 [main] ERROR Calculator - Exception was handled
+2021-11-27 18:28:10,392 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:28:10,447 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:28:11,153 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:28:11,506 [main] ERROR Calculator - Exception was handled
+2021-11-27 18:31:36,848 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:31:36,902 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:31:37,550 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:31:37,883 [main] ERROR Calculator - Exception was handled
+2021-11-27 18:35:07,280 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:35:07,340 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:35:08,081 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:35:08,113 [main] INFO Calculator - Result matched
+2021-11-27 18:38:05,641 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:38:05,699 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:38:06,393 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:38:06,424 [main] INFO Calculator - Result Not matched
+2021-11-27 18:41:01,582 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:41:01,638 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:41:02,284 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:41:02,314 [main] INFO Calculator - Result Not matched
+2021-11-27 18:43:36,915 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:43:36,975 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:43:37,632 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:43:37,664 [main] INFO Calculator - Result matched
+2021-11-27 18:44:27,221 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:44:27,279 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:44:27,984 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:44:28,014 [main] INFO Calculator - Result Not matched
+2021-11-27 18:46:09,494 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:46:09,552 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:46:09,905 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:46:09,943 [main] INFO Calculator - Result matched
+2021-11-27 18:47:14,715 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:47:14,776 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:47:15,254 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:47:15,287 [main] INFO Calculator - Result matched
+2021-11-27 18:48:57,709 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:48:57,763 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:48:58,443 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:48:58,485 [main] INFO Calculator - Result matched
+2021-11-27 18:49:59,472 [main] INFO Calculator - Number 1 is entered
+2021-11-27 18:49:59,531 [main] INFO Calculator - Operation Choosen
+2021-11-27 18:50:00,569 [main] INFO Calculator - Number 2 is entered
+2021-11-27 18:50:00,602 [main] INFO Calculator - Result matched

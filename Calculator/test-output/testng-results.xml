@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-27T18:49:53 IST" name="Calclator" finished-at="2021-11-27T18:50:01 IST" duration-ms="8089">
+    <groups>
+    </groups>
+    <test started-at="2021-11-27T18:49:53 IST" name="calculate" finished-at="2021-11-27T18:50:01 IST" duration-ms="8089">
+      <class name="testCases.TC_simpleOperations">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_simpleOperations@245b4bdc]" started-at="2021-11-27T18:49:53 IST" name="setup" finished-at="2021-11-27T18:49:58 IST" duration-ms="5137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="performTest()[pri:0, instance:testCases.TC_simpleOperations@245b4bdc]" started-at="2021-11-27T18:49:58 IST" name="performTest" finished-at="2021-11-27T18:50:00 IST" duration-ms="2082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_simpleOperations@245b4bdc]" started-at="2021-11-27T18:50:00 IST" name="tearDown" finished-at="2021-11-27T18:50:01 IST" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_simpleOperations -->
+    </test> <!-- calculate -->
+  </suite> <!-- Calclator -->
+</testng-results>
